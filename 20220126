@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 group-title="China",上海 ICS外语 (1080p)
+http://112.25.48.68/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海东方影视 (1080p)
+http://112.25.48.68/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海五星体育 (1080p)
+http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海卫视 (1080p)
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
+#EXTINF:-1 group-title="China",上海哈哈炫动 (1080p)
+http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海教育 (540p)
+http://112.25.48.68/live/program/live/setv/1300000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海新闻综合 (1080p)
+http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海第一财经 (1080p)
+http://112.25.48.68/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海纪实 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="China",上海这一刻魔都眼 (720p)
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+#EXTINF:-1 group-title="China",上海都市 (1080p)
+http://112.25.48.68/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海金山电视台 (270p)
+http://live.mudu.tv/watch/4zbn2f.m3u8
 #EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c68d2b19b.jpg",CCTV1 50FPS
 http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/1.m3u8
 #EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",CCTV2 50FPS
