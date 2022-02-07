@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国央视", CCTV-5 体育 高清
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221228179/index.m3u8
 #EXTINF:-1 group-title="China",cctv-16 (4k)
 http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 #EXTINF:-1 group-title="China",cctv-16 (8k)
