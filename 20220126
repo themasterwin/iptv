@@ -17,6 +17,16 @@ http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8
 http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane/playlist.m3u8
 #EXTINF:-1 tvg-id="WTWC-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="Local",NBC Tallahassee FL (WTWC-TV1) (720p)
 https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WBTS-CD.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="Local",NBC Boston MA (WBTS-CD1) (720p)
+http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WBTS-CD.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="Local",NBC Boston MA (WBTS-CD1) (480p) [Not 24/7]
+http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston/playlist.m3u8
+#EXTINF:-1 tvg-id="WGRZ.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="Local",NBC Buffalo NY (WGRZ1) (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NBCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="NBCGolfChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nbc-golf-3d-us.png" group-title="Sports",NBC Golf Channel (1080p) [Not 24/7]
+http://s1.mysportz.tv:2082/golf/playlist.m3u8
+#EXTINF:-1 tvg-id="WNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="Local",NBC New York (WNBC-DT1) (720p)
+http://38.91.57.12:2082/nbc/playlist.m3u8
 #EXTINF:-1 group-title="China",cctv-5 (4k2)
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="China",cctv-5 (4k3)
