@@ -91,6 +91,12 @@ http://112.25.48.68/live/program/live/setv/1300000/mnf.m3u8
 http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="China",上海第一财经 (1080p)
 http://112.25.48.68/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海新闻综合_2 (1080p)
+http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="China",上海第一财经_2 (1080p)
+http://39.134.39.39/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 group-title="China",上海第一财经_3 (1080p)
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="China",上海纪实 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 #EXTINF:-1 group-title="China",上海这一刻魔都眼 (720p)
